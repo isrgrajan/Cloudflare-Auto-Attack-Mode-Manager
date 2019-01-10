@@ -5,4 +5,5 @@ Cloudflare automated attack mode manager that help you to enable or disable unde
 * Download the project and unzip it.
 * Assign the executable permission to `checkload.sh`, `cloudflare-high.sh`, and `cloudflare-medium.sh`.
 * Create cron job using by running below command from Console screen or manually 
+
 `*/5 * * * * /root/checkload.sh`
